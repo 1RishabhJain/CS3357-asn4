@@ -37,7 +37,11 @@ For this assignment, your chat client and server must support the stop-and-wait 
 
 **RDT Sender:**
 
+![Picture1](https://user-images.githubusercontent.com/45084203/144689954-0a165f69-c5db-4baf-a09d-ba81f15d431b.png)
+
 **RDT Receiver:**
+
+![Picture2](https://user-images.githubusercontent.com/45084203/144689958-197e71b4-2412-48bc-95e9-cd8f4de3a364.png)
 
 Please note that the receiver diagram included above technically corresponds to RDT 2.2, but it required no extensions to work for RDT 3.0.
 
